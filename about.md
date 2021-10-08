@@ -4,6 +4,8 @@ title: About Us
 permalink: /about/
 ---
 
+We are a group of people interested in the physics of strongly correlated systems: system that are composed of many "degrees of freedom" that interactly strongly leading to emergent phenomena. We have historical had expertise in highly frustrated magnetism and strongly correlated electrons such as non-Fermi liquids and high temperature superconductivity. But recently have branched out to study quantum computing and machine learning in the hopes that these new fashionable methods will help us better understand the emergent phenomena we study.
+
 ## Group Leader
 <img src="/images/Michael_Lawler_in_Erice.jpg" alt="Michael J. Lawler" height=240 />
 
