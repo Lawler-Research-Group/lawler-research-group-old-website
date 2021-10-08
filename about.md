@@ -9,7 +9,7 @@ permalink: /about/
 <a href="lawler.html">Michael J. Lawler</a> (Assistant Professor)<br>
 
 ## Pictures of us
-![Todd, Kyle and Pat in 2015](/images/Lawler_Group_Graduate Students_Fall_2016.png") {% height="190" width="388" %}
+![Todd, Kyle and Pat in 2015](/images/Lawler_Group_Graduate Students_Fall_2016.png") <!-- height="190" width="388" -->
 From left to right:
 - Todd Rutkowski (Binghamton Graduate)
 - Patrick O'Brien (Binghamton Graduate)
