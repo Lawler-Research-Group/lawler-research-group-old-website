@@ -6,6 +6,7 @@ permalink: /about/
 
 ## Group Leader
 <img src="/images/Michael_Lawler_in_Erice.jpg" alt="Michael J. Lawler" height=240 />
+
 Michael J. Lawler (Associate Professor)
 (Picture from superstripes conference held in Erice, Sicily 2008.)
 
@@ -18,6 +19,7 @@ From left to right:
 - Kyle G. Sherman (Binghamton Graduate)
 
 <img src="/images/KrishanuRoyChowdury.jpg" alt="Krishanu Roychowdhury in 2016" height=190 width=189 />
+
 Krishanu Roychowdhury in 2016 (postdoc)
 
 ## Our Graduate Students
