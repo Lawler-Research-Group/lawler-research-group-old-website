@@ -5,17 +5,20 @@ permalink: /about/
 ---
 
 ## Group Leader
-![Michael J. Lawler](images/Michael_Lawler_in_Erice.jpg) <!-- height="240" width="180" -->
-<a href="lawler.html">Michael J. Lawler</a> (Assistant Professor)<br>
+<img src="/images/Michael_Lawler_in_Erice.jpg" alt="Michael J. Lawler" height=240 />
+Michael J. Lawler (Associate Professor)
+(Picture from superstripes conference held in Erice, Sicily 2008.)
 
 ## Pictures of us
 <img src="/images/Lawler_Group_Graduate Students_Fall_2016.png" alt="Todd, Kyle and Pat in 2015" height = 190 width="388" />
+
 From left to right:
 - Todd Rutkowski (Binghamton Graduate)
 - Patrick O'Brien (Binghamton Graduate)
 - Kyle G. Sherman (Binghamton Graduate)
 
-![Krishanu Roychowdhury in 2016](images/KrishanuRoyChowdury.jpg) <!-- height="190" width="189" -->
+<img src="/images/KrishanuRoyChowdury.jpg" alt="Krishanu Roychowdhury in 2016" height=190 width=189 />
+Krishanu Roychowdhury in 2016 (postdoc)
 
 ## Our Graduate Students
 - Eric Aspling (Binghamton Graduate
