@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Group Leader
-![Michael J. Lawler](images/Michael_Lawler_in_Erice.jpg) {% height="240" width="180" %}
+![Michael J. Lawler](images/Michael_Lawler_in_Erice.jpg) <!-- height="240" width="180" -->
 <a href="lawler.html">Michael J. Lawler</a> (Assistant Professor)<br>
 
 ## Pictures of us
@@ -15,7 +15,7 @@ From left to right:
 - Patrick O'Brien (Binghamton Graduate)
 - Kyle G. Sherman (Binghamton Graduate)
 
-![Krishanu Roychowdhury in 2016](images/KrishanuRoyChowdury.jpg) {% height="190" width="189" %}
+![Krishanu Roychowdhury in 2016](images/KrishanuRoyChowdury.jpg) <!-- height="190" width="189" -->
 
 ## Our Graduate Students
 - Eric Aspling (Binghamton Graduate
