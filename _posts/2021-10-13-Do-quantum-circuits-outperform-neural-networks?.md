@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Do Quantum Circuits Outperform Neural Networks?"
+excerpt: "Are quantum circuits good at machine learning or is their potential just due to the large hilbert space of a future quantum computer?"
 ---
 
 # Are quantum circuits good at machine learning?
