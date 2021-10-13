@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 title: Lawler Research Group
 description: Our research seeking breakthroughs in condensed matter physics.
 permalink: /blog/:title
+markdown: kramdown
