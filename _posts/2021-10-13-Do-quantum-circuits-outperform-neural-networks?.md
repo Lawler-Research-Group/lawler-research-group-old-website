@@ -1,10 +1,7 @@
 ---
 layout: post
 title: "Do Quantum Circuits Outperform Neural Networks?"
-excerpt: "Are quantum circuits good at machine learning or is their potential just due to the large hilbert space of a future quantum computer?"
 ---
-
-# Are quantum circuits good at machine learning?
 
 Quantum machine learning [has received a lot of hype](https://www.protocol.com/manuals/quantum-computing/machine-learning-ai-quantum-computing-move-beyond-hype). But there is a simple way to see if the hype is just hype: classical simulation! In an apples-to-apples comparison, can a quantum circuit outperform a classical neural network? 
 
