@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: The Lawler group research site seeking breakthroughs in condensed matter physics.
 
 profile:
   align: right
