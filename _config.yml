@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Michael
-middle_name: J.
-last_name: Lawler
+first_name: Lawler Research Group
+middle_name: @
+last_name: Binghamton and Cornell Universities
 email: mlawler@binghamton.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The Lawler group research site seeking breakthroughs in condensed matter physics.
